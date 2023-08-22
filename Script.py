@@ -7,8 +7,8 @@ If You Want To Create This Type Of Bot Contact Us
 🔗 For More Information Contact @sarveshbotz 🔗</b>"""
 
     ABOUT_TXT = """<b><i>🤖 Mʏ Nᴀᴍᴇ : <a href=https://t.me/SarveshBotz><b>Movie Search Bot</b></a>\n
-👑 Oᴡɴᴇʀ : <a href=https://t.me/SarveshBotz><b>🏆 Vijay 🏆</b></a>\n
-📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/sabackupchannel><b>⚡ VJ Bots ⚡</b></a>\n
+👑 Oᴡɴᴇʀ : <a href=https://t.me/SarveshBotz><b>🏆 Sᴀʀᴠᴇsʜ  🏆</b></a>\n
+📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/sabackupchannel><b>⚡ Sa Backup ⚡</b></a>\n
 📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ\n
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3\n
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : render\n
